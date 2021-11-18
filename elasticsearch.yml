@@ -1,0 +1,5 @@
+cluster.name: "docker-cluster"
+network.host: 0.0.0.0
+s3.client.default.endpoint: nginx:9000
+s3.client.default.protocol: http
+s3.client.default.path_style_access: true
